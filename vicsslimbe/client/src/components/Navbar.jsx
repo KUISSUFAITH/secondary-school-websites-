@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 import React, { useState } from "react";
+=======
+import { useState } from "react";
+>>>>>>> e325eda987966aeb53dded17298822d91643f81d
 import { Menu, X } from "lucide-react";
 import { NavLink } from "react-router-dom";
 
